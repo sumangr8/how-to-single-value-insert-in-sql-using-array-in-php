@@ -1,0 +1,1 @@
+# how-to-single-value-insert-in-sql-using-array-in-php
